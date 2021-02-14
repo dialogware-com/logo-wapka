@@ -42,7 +42,7 @@ Icon
 ## logo
 
 ## 3
-![cover.png](3/default.png)
+![cover.png](3/cover.png)
 
 ## 4
 ![cover.png](4/cover.png)
