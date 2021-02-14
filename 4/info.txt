@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: steelfish rg
+font link: https://www.fontspring.com/fonts/typodermic/steelfish/steelfish-regular
+font author: Typodermic Fonts
+font author site: http://typodermicfonts.com/
+
+
+icon designer: Timothy Miller
+icon designer link: /tmthymllr
+        
+
+fontColor: {"gradient-0":"#5106FF","gradient-1":"#0D0061"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#5106FF","gradient-1":"#0D0061"}
+
+      
