@@ -9,6 +9,11 @@ LIGHT
 DARK
 #241f57
 
+## 1
+![1/cover.png](1/default.png)
+
+## 2
+![2/cover.png](2/cover.png)
 
 3,4
 
@@ -36,9 +41,9 @@ Icon
     
 ## logo
 
+## 3
+![cover.png](3/default.png)
 
-## 1
-![1/cover.png](1/default.png)
+## 4
+![cover.png](4/cover.png)
 
-## 2
-![2/cover.png](2/cover.png)
