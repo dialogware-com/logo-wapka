@@ -9,14 +9,6 @@ LIGHT
 DARK
 #241f57
 
-## 1
-![1/cover.png](1/default.png)
-
-## 2
-![2/cover.png](2/cover.png)
-
-3,4
-
 
         Font in use <a target="_blank" href="https://www.fontspring.com/fonts/typodermic/steelfish/steelfish-regular">steelfish rg</a> designed by
         <a target="_blank" href="http://typodermicfonts.com/">Typodermic Fonts</a>
@@ -40,6 +32,12 @@ Icon
     
     
 ## logo
+
+## 1
+![1/cover.png](1/default.png)
+
+## 2
+![2/cover.png](2/cover.png)
 
 ## 3
 ![cover.png](3/cover.png)
